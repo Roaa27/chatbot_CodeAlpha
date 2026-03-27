@@ -26,8 +26,8 @@ pip install streamlit pandas scikit-learn gTTS
 streamlit run app.py
 🌐 Try Online
 
-Try the chatbot live on Streamlit:
-Chatbot AI Online
+##Try the chatbot live on Streamlit:
+Chatbot AI Online :https://imkpbcdaonnwubeswoyrnj.streamlit.app/
 
 📂 Project Files
 app.py – Main Streamlit app code
