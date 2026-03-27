@@ -1,0 +1,43 @@
+question,answer
+what is ai,Artificial Intelligence is the simulation of human intelligence in machines
+ما هو الذكاء الاصطناعي,الذكاء الاصطناعي هو محاكاة الذكاء البشري في الآلات
+what is machine learning,Machine Learning allows systems to learn from data without explicit programming
+ما هو تعلم الآلة,تعلم الآلة هو جزء من الذكاء الاصطناعي يعتمد على البيانات بدون برمجة صريحة
+what is deep learning,Deep Learning uses neural networks with many layers to model complex patterns
+ما هو التعلم العميق,التعلم العميق يستخدم الشبكات العصبية متعددة الطبقات لنمذجة أنماط معقدة
+what is neural network,A neural network is a system inspired by the human brain to process data
+ما هي الشبكة العصبية,الشبكة العصبية هي نظام مستوحى من دماغ الإنسان لمعالجة البيانات
+what is nlp,NLP enables machines to understand and process human language
+ما هو معالجة اللغة الطبيعية,معالجة اللغة الطبيعية تمكّن الآلات من فهم ومعالجة اللغة البشرية
+what is computer vision,Computer Vision allows machines to interpret visual data like images and videos
+ما هو رؤية الحاسوب,رؤية الحاسوب تمكّن الآلات من تفسير البيانات البصرية مثل الصور والفيديو
+what is reinforcement learning,Reinforcement learning learns by rewards and punishments
+ما هو التعلم المعزز,التعلم المعزز يتعلم عن طريق المكافآت والعقوبات
+what is supervised learning,Supervised learning uses labeled datasets to train models
+ما هو التعلم الموجّه,التعلم الموجّه يستخدم مجموعات بيانات معنونة لتدريب النماذج
+what is unsupervised learning,Unsupervised learning finds hidden patterns in unlabeled data
+ما هو التعلم غير الموجّه,التعلم غير الموجّه يجد أنماط مخفية في البيانات غير المعنونة
+what is overfitting,Overfitting occurs when a model learns noise instead of useful patterns
+ما هو الإفراط في التعميم,الإفراط في التعميم يحدث عندما يتعلم النموذج الضوضاء بدل الأنماط المفيدة
+what is underfitting,Underfitting happens when a model is too simple to learn patterns
+ما هو التقليل من التعميم,التقليل من التعميم يحدث عندما يكون النموذج بسيطًا جدًا لتعلم الأنماط
+what is generative ai,Generative AI creates new content like text images or audio
+ما هو الذكاء الاصطناعي التوليدي,الذكاء الاصطناعي التوليدي ينشئ محتوى جديد مثل النصوص والصور والصوت
+what is chatgpt,ChatGPT is an AI model designed for conversation
+ما هو شات جي بي تي,شات جي بي تي هو نموذج ذكاء اصطناعي مصمم للمحادثة
+what is transformer model,Transformer is a deep learning model used in NLP tasks
+ما هو نموذج الترنسفورمر,نموذج الترنسفورمر هو نموذج تعلم عميق يستخدم في مهام معالجة اللغة
+what is llm,LLM stands for Large Language Model trained on huge datasets
+ما هو LLM,LLM تعني نموذج لغة كبير مدرّب على مجموعات بيانات ضخمة
+what is prompt engineering,Prompt engineering is designing inputs to get better AI outputs
+ما هو هندسة البرمجة,هندسة البرمجة هي تصميم المدخلات للحصول على نتائج أفضل من الذكاء الاصطناعي
+what is ai ethics,AI ethics deals with responsible use of AI systems
+ما هو أخلاقيات الذكاء الاصطناعي,أخلاقيات الذكاء الاصطناعي تتعامل مع الاستخدام المسؤول للأنظمة الذكية
+what is data science,Data science extracts insights from data using various techniques
+ما هو علم البيانات,علم البيانات يستخلص الأفكار من البيانات باستخدام تقنيات مختلفة
+what is python in ai,Python is widely used in AI due to its simplicity and libraries
+ما هي بايثون في الذكاء الاصطناعي,بايثون تُستخدم على نطاق واسع في الذكاء الاصطناعي بسبب بساطتها ومكتباتها
+what is tensorflow,TensorFlow is a library for building machine learning models
+ما هو TensorFlow,TensorFlow مكتبة لبناء نماذج تعلم الآلة
+what is pytorch,PyTorch is a deep learning framework used for research and production
+ما هو PyTorch,PyTorch إطار عمل للتعلم العميق يستخدم في البحث والإنتاج
